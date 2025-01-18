@@ -5,6 +5,7 @@ import "./css/styles.css";
 import { getTest } from "./js/apiTest.js";
 
 import {
+  asignarEventoButton,
   asignarEventoModal,
   createListTests,
   modalCardShow,
@@ -15,6 +16,7 @@ const cargarTests = async () => {
   createListTests(tests);
   asignarEventoModal(tests);
   modalCardShow();
+  asignarEventoButton(tests);
 };
 
 cargarTests();

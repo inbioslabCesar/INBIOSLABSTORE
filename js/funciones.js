@@ -1,5 +1,6 @@
 import modalShow from "../components/modalShow";
 import testRow from "../components/testRow";
+import testRowCard from "../components/testRowCard";
 
 export const createListTests = (tests) => {
   tests.map((item) => {
@@ -44,4 +45,36 @@ const modalCardClosed = () => {
     const modalShowCard = document.querySelector(".modal-carrito-cabecera");
     modalShowCard.classList.remove("show-carrito");
   });
+};
+
+let carrito = {};
+
+export const asignarEventoButton = (data) => {
+  const btnModalComprar = document.querySelectorAll(".button-comprar");
+  for (let btnCard of btnModalComprar) {
+    btnCard.addEventListener("click", (e) => {
+      const testId = parseInt(e.target.closest("button").id);
+      const prueba = data.find((item) => item.id === testId);
+      prueba.cantidad = 1;
+      if (carrito.hasOwnProperty(prueba.id)) {
+        prueba.cantidad++;
+      }
+
+      carrito[prueba.id] = { ...prueba };
+      pintarCarrito(carrito);
+    });
+  }
+};
+
+const tbody = document.querySelector("#items");
+const pintarCarrito = (carrito) => {
+  tbody.innerHTML = "";
+  const datosCarrito = Object.values(carrito);
+  for (let pruebaCarrito of datosCarrito) {
+    const tr = document.createElement("tr");
+
+    tr.innerHTML = testRowCard(pruebaCarrito);
+    tbody.appendChild(tr);
+  }
+  //pintarFooter();
 };

@@ -4,7 +4,9 @@ const testRow = (item) => {
   <td><button id="${
     item.id
   }" class="btn btn-outline-success rounded-pill desplegar-modal">VER</button></td>
-  <td><button class="btn btn-outline-primary rounded-pill" >Comprar</button></td>  `;
+  <td><button id="${
+    item.id
+  }" class="btn btn-outline-primary rounded-pill button-comprar">Comprar</button></td>  `;
 };
 
 export default testRow;
