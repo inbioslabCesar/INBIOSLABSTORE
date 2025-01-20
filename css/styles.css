@@ -51,6 +51,9 @@ body {
   right: 0px;
   cursor: pointer;
 }
+.modal-title {
+  font-size: 25px;
+}
 
 .modal-price {
   background: #f4d03f;

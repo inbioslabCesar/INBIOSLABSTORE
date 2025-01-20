@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "A.N.C.A ANTI-NEUTROFILOS",
+    "description": "Los anticuerpos anticitoplasma de neutrófilos (ANCA) son autoanticuerpos que atacan a los neutrófilos, un tipo de glóbulos blancos. La prueba de ANCA detecta la presencia de estos anticuerpos en la sangre.",
     "sample": "suero",
     "method": "IFI - Inmunofluorescencia Indirecta",
     "price1": 180,
@@ -14,6 +15,7 @@
   {
     "id": 2,
     "name": "acido folico",
+    "description": "El ácido fólico es una vitamina del complejo B9 que ayuda al cuerpo a crear nuevas células. Es importante para el desarrollo del sistema nervioso central del bebé y para prevenir defectos de nacimiento.",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 75,
@@ -26,6 +28,7 @@
   {
     "id": 3,
     "name": "aga y electrolitos (a domicilio)",
+    "description": "El análisis de gases arteriales (AGA) y los electrolitos son pruebas de laboratorio que miden los gases y minerales en la sangre. Estas pruebas ayudan a evaluar la función respiratoria y el equilibrio ácido-base del cuerpo.",
     "sample": "sangre arterial",
     "method": "gasometria",
     "price1": 150,
@@ -38,6 +41,7 @@
   {
     "id": 4,
     "name": "alfafeto proteina(afp)",
+    "description": "La alfafetoproteína (AFP) es una proteína que se produce en el hígado y en el saco vitelino del feto. La prueba de AFP es un análisis de sangre que mide los niveles de esta proteína.",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -50,6 +54,7 @@
   {
     "id": 5,
     "name": "amilasa serica",
+    "description": "La amilasa sérica es un análisis de sangre que mide la cantidad de amilasa en la sangre. La amilasa es una enzima que ayuda al cuerpo a digerir los carbohidratos. ",
     "sample": "suero",
     "method": "cinetico",
     "price1": 25,
@@ -62,6 +67,7 @@
   {
     "id": 6,
     "name": "ANTI DNA-DS",
+    "description": "",
     "sample": "suero",
     "method": "IFI - Inmunofluorescencia Indirecta",
     "price1": 160,
@@ -74,6 +80,7 @@
   {
     "id": 7,
     "name": "ANTI-CCP(PEPTIDOO CICLICO CITRUNILADO)IGG",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 250,
@@ -86,6 +93,7 @@
   {
     "id": 8,
     "name": "ANTICUERPOS ANTINUCLEARES(ANA)",
+    "description": "",
     "sample": "suero",
     "method": "clia",
     "price1": 150,
@@ -98,6 +106,7 @@
   {
     "id": 9,
     "name": "ANTICUERPOS ANTITIROIDES",
+    "description": "",
     "sample": "suero",
     "method": "ECLIA / MODULAR PE",
     "price1": 150,
@@ -110,6 +119,7 @@
   {
     "id": 10,
     "name": "ANTIGENO CARCINO EMBRIONARIO(CEA)",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -122,6 +132,7 @@
   {
     "id": 11,
     "name": "CA 125(ovario)",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -134,6 +145,7 @@
   {
     "id": 12,
     "name": "CA 15-3(mama)",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 75,
@@ -146,6 +158,7 @@
   {
     "id": 13,
     "name": "glucosa",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 10,
@@ -158,6 +171,7 @@
   {
     "id": 14,
     "name": "colesterol total",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 10,
@@ -170,6 +184,7 @@
   {
     "id": 15,
     "name": "trigliceridos",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 15,
@@ -182,6 +197,7 @@
   {
     "id": 16,
     "name": "hemograma completo automatizada",
+    "description": "",
     "sample": "sangre total",
     "method": "citometría de flujo",
     "price1": 30,
@@ -194,6 +210,7 @@
   {
     "id": 17,
     "name": "hemoglobina",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 10,
@@ -206,6 +223,7 @@
   {
     "id": 18,
     "name": "examen completo de orina(eco)",
+    "description": "",
     "sample": "orina ocasional",
     "method": "manual",
     "price1": 15,
@@ -218,6 +236,7 @@
   {
     "id": 19,
     "name": "hemoglobina glicosilada(HbA1c)",
+    "description": "",
     "sample": "sangre total",
     "method": "inmunoflorescencia",
     "price1": 70,
@@ -230,6 +249,7 @@
   {
     "id": 20,
     "name": "tsh",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -242,6 +262,7 @@
   {
     "id": 21,
     "name": "t4 libre",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -254,6 +275,7 @@
   {
     "id": 22,
     "name": "t3 libre",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -266,6 +288,7 @@
   {
     "id": 23,
     "name": "perfil lipidico",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 40,
@@ -278,6 +301,7 @@
   {
     "id": 24,
     "name": "perfil hepatico",
+    "description": "",
     "sample": "suero",
     "method": "cinetico/colorimetrico",
     "price1": 50,
@@ -290,6 +314,7 @@
   {
     "id": 25,
     "name": "perfil renal simple",
+    "description": "",
     "sample": "suero",
     "method": "cinetico/colorimetrico",
     "price1": 35,
@@ -302,6 +327,7 @@
   {
     "id": 26,
     "name": "perfil tiroideo(tsh-t4 libre-t3)",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 180,
@@ -314,6 +340,7 @@
   {
     "id": 27,
     "name": "CREATINFOSFOQUINASA (CPK TOTAL)",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 50,
@@ -326,6 +353,7 @@
   {
     "id": 28,
     "name": "PROLACTINA POOL",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 120,
@@ -338,6 +366,7 @@
   {
     "id": 29,
     "name": "BIOPSIA PIEZA OPERATORIA <= 1 MM. (L7)",
+    "description": "",
     "sample": "BIOPSIA",
     "method": "MICROSCOPIA / MANUAL",
     "price1": 150,
@@ -350,6 +379,7 @@
   {
     "id": 30,
     "name": "prolactina",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 70,
@@ -362,6 +392,7 @@
   {
     "id": 31,
     "name": "lh",
+    "description": "",
     "sample": "suero",
     "method": "inmunoflorescencia",
     "price1": 70,
@@ -374,6 +405,7 @@
   {
     "id": 32,
     "name": "fsh",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -386,6 +418,7 @@
   {
     "id": 33,
     "name": "testosterona total",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -398,6 +431,7 @@
   {
     "id": 34,
     "name": "testosterona libre",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 75,
@@ -410,6 +444,7 @@
   {
     "id": 35,
     "name": "estradiol-e2",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -422,6 +457,7 @@
   {
     "id": 36,
     "name": "progesterona",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 70,
@@ -434,6 +470,7 @@
   {
     "id": 37,
     "name": "troponina i",
+    "description": "",
     "sample": "suero",
     "method": "inmunoflorescencia",
     "price1": 60,
@@ -446,6 +483,7 @@
   {
     "id": 38,
     "name": "lipasa",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 40,
@@ -458,6 +496,7 @@
   {
     "id": 39,
     "name": "ggt-gamma-glutamil",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 40,
@@ -470,6 +509,7 @@
   {
     "id": 40,
     "name": "calcio serico",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 15,
@@ -482,6 +522,7 @@
   {
     "id": 41,
     "name": "acido urico",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 15,
@@ -494,6 +535,7 @@
   {
     "id": 42,
     "name": "perfil de coagulacion(tp-ttpa-tc-ts)",
+    "description": "",
     "sample": "plasma/citrato",
     "method": "coagulometria",
     "price1": 45,
@@ -506,6 +548,7 @@
   {
     "id": 43,
     "name": "grupo sanguineo",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 10,
@@ -518,6 +561,7 @@
   {
     "id": 44,
     "name": "heces seriado x 3 veces",
+    "description": "",
     "sample": "heces",
     "method": "microscopia",
     "price1": 25,
@@ -530,6 +574,7 @@
   {
     "id": 45,
     "name": "heces simple x 1 veces",
+    "description": "",
     "sample": "heces",
     "method": "microscopia",
     "price1": 10,
@@ -542,6 +587,7 @@
   {
     "id": 46,
     "name": "heces coprofuncional",
+    "description": "",
     "sample": "heces",
     "method": "microscopia",
     "price1": 25,
@@ -554,6 +600,7 @@
   {
     "id": 47,
     "name": "metodo de faust-heces concentrada",
+    "description": "",
     "sample": "heces",
     "method": "microscopia",
     "price1": 20,
@@ -566,6 +613,7 @@
   {
     "id": 48,
     "name": "metodo de baermann-strongyloides",
+    "description": "",
     "sample": "heces",
     "method": "microscopia",
     "price1": 20,
@@ -578,6 +626,7 @@
   {
     "id": 49,
     "name": "reaccion inflamatoria-heces",
+    "description": "",
     "sample": "heces",
     "method": "microscopia",
     "price1": 10,
@@ -590,6 +639,7 @@
   {
     "id": 50,
     "name": "thevenon-heces-sangre oculta",
+    "description": "",
     "sample": "heces",
     "method": "manual",
     "price1": 15,
@@ -602,6 +652,7 @@
   {
     "id": 51,
     "name": "tolerancia a la glucosa",
+    "description": "",
     "sample": "suero",
     "method": "bioquimica automatizada",
     "price1": 50,
@@ -614,6 +665,7 @@
   {
     "id": 53,
     "name": "lamina periferica",
+    "description": "",
     "sample": "sangre total con edta",
     "method": "microscopia/automatizado",
     "price1": 60,
@@ -626,6 +678,7 @@
   {
     "id": 54,
     "name": "recuento de plaquetas en lamina",
+    "description": "",
     "sample": "sangre total con edta",
     "method": "microscopia/manual",
     "price1": 15,
@@ -638,6 +691,7 @@
   {
     "id": 55,
     "name": "espermatograma",
+    "description": "",
     "sample": "semen",
     "method": "microscopia/manual",
     "price1": 60,
@@ -650,6 +704,7 @@
   {
     "id": 56,
     "name": "insulina",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 70,
@@ -662,6 +717,7 @@
   {
     "id": 57,
     "name": "dimero d",
+    "description": "",
     "sample": "suero",
     "method": "coagulacion",
     "price1": 70,
@@ -674,6 +730,7 @@
   {
     "id": 58,
     "name": "ferritina",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 60,
@@ -686,6 +743,7 @@
   {
     "id": 59,
     "name": "procalcitonina",
+    "description": "",
     "sample": "suero",
     "method": "inmunoflorescencia",
     "price1": 60,
@@ -698,6 +756,7 @@
   {
     "id": 60,
     "name": "inmunoglobulina e (ige)",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 60,
@@ -710,6 +769,7 @@
   {
     "id": 61,
     "name": "cortisol am",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -722,6 +782,7 @@
   {
     "id": 62,
     "name": "cortisol pm",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -734,6 +795,7 @@
   {
     "id": 63,
     "name": "coombs directo",
+    "description": "",
     "sample": "sangre total",
     "method": "HEMAGLUTINACION / MANUAL",
     "price1": 45,
@@ -746,6 +808,7 @@
   {
     "id": 64,
     "name": "coombs indirecto",
+    "description": "",
     "sample": "suero",
     "method": "HEMAGLUTINACION / MANUAL",
     "price1": 50,
@@ -758,6 +821,7 @@
   {
     "id": 65,
     "name": "vih combo(CLIA)",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 65,
@@ -770,6 +834,7 @@
   {
     "id": 66,
     "name": "vih prueba rapida",
+    "description": "",
     "sample": "suero",
     "method": "cromatografia",
     "price1": 45,
@@ -782,6 +847,7 @@
   {
     "id": 67,
     "name": "serologia cualitativa rpr-sifilis",
+    "description": "",
     "sample": "suero",
     "method": "floculacion/manual",
     "price1": 15,
@@ -794,6 +860,7 @@
   {
     "id": 68,
     "name": "serologia semi-cuantitativa rpr-sifilis",
+    "description": "",
     "sample": "suero",
     "method": "floculacion/manual",
     "price1": 25,
@@ -806,6 +873,7 @@
   {
     "id": 69,
     "name": "vitamina b12",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 70,
@@ -818,6 +886,7 @@
   {
     "id": 70,
     "name": "cpk-mb",
+    "description": "",
     "sample": "suero",
     "method": "inmunoflorescencia",
     "price1": 60,
@@ -830,6 +899,7 @@
   {
     "id": 71,
     "name": "herpes 2 (igm)",
+    "description": "",
     "sample": "suero",
     "method": "quimiolumiscencia",
     "price1": 60,
@@ -842,6 +912,7 @@
   {
     "id": 72,
     "name": "psa libre",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 75,
@@ -854,6 +925,7 @@
   {
     "id": 73,
     "name": "psa total",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 65,
@@ -866,6 +938,7 @@
   {
     "id": 74,
     "name": "variante du",
+    "description": "",
     "sample": "sangre total",
     "method": "HEMAGLUTINACION / MANUAL",
     "price1": 25,
@@ -878,6 +951,7 @@
   {
     "id": 75,
     "name": "CHLAMYDIA TRACHOMATIS IGM-igg",
+    "description": "",
     "sample": "suero",
     "method": "clia",
     "price1": 180,
@@ -890,6 +964,7 @@
   {
     "id": 76,
     "name": "ANTICOAGULANTE LUPICO ",
+    "description": "",
     "sample": "suero",
     "method": "COAGULOMETRICO",
     "price1": 150,
@@ -902,6 +977,7 @@
   {
     "id": 77,
     "name": "ANTI CARDIOLIPINA IGG-IGM",
+    "description": "",
     "sample": "suero",
     "method": "ELISA",
     "price1": 180,
@@ -914,6 +990,7 @@
   {
     "id": 78,
     "name": "BETA 2 GLICOPROTEINA I IGG-IGM",
+    "description": "",
     "sample": "suero",
     "method": "ELISA",
     "price1": 180,
@@ -926,6 +1003,7 @@
   {
     "id": 79,
     "name": "tiempo de protrombina(tp) más inr",
+    "description": "",
     "sample": "plasma/citrato",
     "method": "coagulometria",
     "price1": 15,
@@ -938,6 +1016,7 @@
   {
     "id": 80,
     "name": "tiempo de tromboplastina parcial activada(ttpa)",
+    "description": "",
     "sample": "plasma/citrato",
     "method": "coagulometria",
     "price1": 15,
@@ -950,6 +1029,7 @@
   {
     "id": 81,
     "name": "retraccion de coagulo",
+    "description": "",
     "sample": "sangre total",
     "method": "optico-mecanico/manual",
     "price1": 10,
@@ -962,6 +1042,7 @@
   {
     "id": 82,
     "name": "microalbuminuria orina simple",
+    "description": "",
     "sample": "orina simple",
     "method": "inmunoflorescencia",
     "price1": 60,
@@ -974,6 +1055,7 @@
   {
     "id": 83,
     "name": "helicobacter pylori igg",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -986,6 +1068,7 @@
   {
     "id": 84,
     "name": " recuento de reticulocitos",
+    "description": "",
     "sample": "sangre total",
     "method": "microscopia manual",
     "price1": 25,
@@ -998,6 +1081,7 @@
   {
     "id": 85,
     "name": "constantes corpusculares",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 15,
@@ -1010,6 +1094,7 @@
   {
     "id": 86,
     "name": "OXIUROS (TEST DE GRAHAM)",
+    "description": "",
     "sample": "CINTA ADHESIVA",
     "method": "microscopia/manual",
     "price1": 10,
@@ -1022,6 +1107,7 @@
   {
     "id": 87,
     "name": "ACIDOS BILIARES",
+    "description": "",
     "sample": "suero",
     "method": "ELISA",
     "price1": 180,
@@ -1034,6 +1120,7 @@
   {
     "id": 88,
     "name": "HORMONA ANTI MULLERIANA (AMH/MIS)",
+    "description": "",
     "sample": "suero",
     "method": "ECLIA / COBAS 8000",
     "price1": 250,
@@ -1046,6 +1133,7 @@
   {
     "id": 89,
     "name": "ANTI CORE",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 60,
@@ -1058,6 +1146,7 @@
   {
     "id": 90,
     "name": "hepatitis b-antigeno de superficie (hbsag)",
+    "description": "",
     "sample": "suero",
     "method": "inmunocromatografia",
     "price1": 35,
@@ -1070,6 +1159,7 @@
   {
     "id": 91,
     "name": "hepatitis a (igm)",
+    "description": "",
     "sample": "suero",
     "method": "inmunocromatografia",
     "price1": 45,
@@ -1082,6 +1172,7 @@
   {
     "id": 92,
     "name": "hepatitis c (hcv)",
+    "description": "",
     "sample": "suero",
     "method": "inmunocromatografia",
     "price1": 45,
@@ -1094,6 +1185,7 @@
   {
     "id": 94,
     "name": "urea",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 10,
@@ -1106,6 +1198,7 @@
   {
     "id": 95,
     "name": "creatinina",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 10,
@@ -1118,6 +1211,7 @@
   {
     "id": 96,
     "name": "proteinuria orina de 24 h",
+    "description": "",
     "sample": "orina de 24 horas",
     "method": "colorimetrico",
     "price1": 25,
@@ -1130,6 +1224,7 @@
   {
     "id": 97,
     "name": "depuracion de creatinina en orina de 24 h",
+    "description": "",
     "sample": "orina de 24 horas/suero",
     "method": "cinetico",
     "price1": 25,
@@ -1142,6 +1237,7 @@
   {
     "id": 98,
     "name": "hcg cuantificado",
+    "description": "",
     "sample": "suero",
     "method": "elisa",
     "price1": 60,
@@ -1154,6 +1250,7 @@
   {
     "id": 99,
     "name": "hcg cualitativo",
+    "description": "",
     "sample": "suero",
     "method": "cromatografia",
     "price1": 20,
@@ -1166,6 +1263,7 @@
   {
     "id": 100,
     "name": "hierro serico",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 45,
@@ -1178,6 +1276,7 @@
   {
     "id": 101,
     "name": "leptospira igm-igg",
+    "description": "",
     "sample": "suero",
     "method": "cromatografia",
     "price1": 65,
@@ -1190,6 +1289,7 @@
   {
     "id": 102,
     "name": "fosforo",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 50,
@@ -1202,6 +1302,7 @@
   {
     "id": 103,
     "name": "magnesio",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 45,
@@ -1214,6 +1315,7 @@
   {
     "id": 104,
     "name": "urocultivo más antibiograma",
+    "description": "",
     "sample": "orina simple",
     "method": "CULTIVO / MICROSCOPIA",
     "price1": 50,
@@ -1226,6 +1328,7 @@
   {
     "id": 105,
     "name": "proteina c reactiva (pcr cuantificado)",
+    "description": "",
     "sample": "suero",
     "method": "inmunoflorescencia",
     "price1": 50,
@@ -1238,6 +1341,7 @@
   {
     "id": 106,
     "name": "proteina c reactiva (pcr cualitativo)",
+    "description": "",
     "sample": "suero",
     "method": "turbidimetria",
     "price1": 20,
@@ -1250,6 +1354,7 @@
   {
     "id": 107,
     "name": "factor reumatoideo (fr cualitativo)",
+    "description": "",
     "sample": "suero",
     "method": "turbidimetria",
     "price1": 20,
@@ -1262,6 +1367,7 @@
   {
     "id": 108,
     "name": "antiestreptolisina (aso cualitativo)",
+    "description": "",
     "sample": "suero",
     "method": "turbidimetria",
     "price1": 20,
@@ -1274,6 +1380,7 @@
   {
     "id": 109,
     "name": "hematocrito hto",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 10,
@@ -1286,6 +1393,7 @@
   {
     "id": 110,
     "name": "bilirrubinas totales y fraccionadas",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 20,
@@ -1298,6 +1406,7 @@
   {
     "id": 111,
     "name": "aglutinaciones febriles",
+    "description": "",
     "sample": "suero",
     "method": "aglutinacion/manual",
     "price1": 25,
@@ -1310,6 +1419,7 @@
   {
     "id": 112,
     "name": "electrolitos sericos (cl, na, k)",
+    "description": "",
     "sample": "suero",
     "method": "potenciometria",
     "price1": 65,
@@ -1322,6 +1432,7 @@
   {
     "id": 113,
     "name": "aga electrolitos",
+    "description": "",
     "sample": "sangre arterial",
     "method": "potenciometria",
     "price1": 100,
@@ -1334,6 +1445,7 @@
   {
     "id": 114,
     "name": "COCAINA PBC (ORINA SIMPLE) - CUALITATIVO",
+    "description": "",
     "sample": "orina simple",
     "method": "INMUNOCROMATOGRAFIA",
     "price1": 45,
@@ -1346,6 +1458,7 @@
   {
     "id": 115,
     "name": "MARIHUANA THC (ORINA SIMPLE) - CUALITATIVO",
+    "description": "",
     "sample": "orina simple",
     "method": "INMUNOCROMATOGRAFIA / MANUAL",
     "price1": 45,
@@ -1358,6 +1471,7 @@
   {
     "id": 116,
     "name": "ROTAVIRUS + ADENOVIRUS (HECES)",
+    "description": "",
     "sample": "heces",
     "method": "inmunocromatografia",
     "price1": 50,
@@ -1370,6 +1484,7 @@
   {
     "id": 117,
     "name": "bk esputo directo",
+    "description": "",
     "sample": "varios",
     "method": "microscopia manual",
     "price1": 35,
@@ -1382,6 +1497,7 @@
   {
     "id": 118,
     "name": "cultivo de secrecion vaginal",
+    "description": "",
     "sample": "secrecion vaginal",
     "method": "CULTIVO / MICROSCOPIA / MANUAL",
     "price1": 50,
@@ -1394,6 +1510,7 @@
   {
     "id": 119,
     "name": "cultivo (otros)",
+    "description": "",
     "sample": "varios",
     "method": "CULTIVO / MICROSCOPIA / MANUAL",
     "price1": 50,
@@ -1406,6 +1523,7 @@
   {
     "id": 120,
     "name": "hemocultivo",
+    "description": "",
     "sample": "sangre total",
     "method": "CULTIVO / MICROSCOPIA / MANUAL",
     "price1": 60,
@@ -1418,6 +1536,7 @@
   {
     "id": 121,
     "name": "tiempo de coagulacion y tiempo de sangria",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 10,
@@ -1430,6 +1549,7 @@
   {
     "id": 122,
     "name": "transaminasa tgo",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 15,
@@ -1442,6 +1562,7 @@
   {
     "id": 123,
     "name": "transaminasa tgp",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 15,
@@ -1454,6 +1575,7 @@
   {
     "id": 124,
     "name": "fosfatasa alcalina",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 15,
@@ -1466,6 +1588,7 @@
   {
     "id": 125,
     "name": "proteinas totales y fraccionadas",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 15,
@@ -1478,6 +1601,7 @@
   {
     "id": 126,
     "name": "ca 19-9",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -1490,6 +1614,7 @@
   {
     "id": 127,
     "name": "velocidad de sedimentacion glovular(vsg)",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 10,
@@ -1502,6 +1627,7 @@
   {
     "id": 128,
     "name": "gota gruesa en lamina",
+    "description": "",
     "sample": "sangre total",
     "method": "manual/coloracion giensa",
     "price1": 15,
@@ -1514,6 +1640,7 @@
   {
     "id": 129,
     "name": "prueba cruzada",
+    "description": "",
     "sample": "suero",
     "method": "manual",
     "price1": 35,
@@ -1526,6 +1653,7 @@
   {
     "id": 130,
     "name": "secrecion directa mas gram",
+    "description": "",
     "sample": "secrecion",
     "method": "microscopia manual",
     "price1": 15,
@@ -1538,6 +1666,7 @@
   {
     "id": 131,
     "name": "dengue igg-igm-ns1",
+    "description": "",
     "sample": "suero",
     "method": "inmunocromatografia",
     "price1": 60,
@@ -1550,6 +1679,7 @@
   {
     "id": 132,
     "name": "deshidrogenasa lactica-dhl",
+    "description": "",
     "sample": "suero",
     "method": "cinetico",
     "price1": 45,
@@ -1562,6 +1692,7 @@
   {
     "id": 133,
     "name": "raspado de piel directo-koh hongos-acaros",
+    "description": "",
     "sample": "raspado de piel",
     "method": "microscopia/manual",
     "price1": 30,
@@ -1574,6 +1705,7 @@
   {
     "id": 134,
     "name": "cultivo de hongos",
+    "description": "",
     "sample": "una, piel, cuero cabelludo, orina",
     "method": "cultivo/microscopia/manual",
     "price1": 60,
@@ -1586,6 +1718,7 @@
   {
     "id": 135,
     "name": "herpes 2 (igg)",
+    "description": "",
     "sample": "suero",
     "method": "quimiolumiscencia",
     "price1": 50,
@@ -1598,6 +1731,7 @@
   {
     "id": 136,
     "name": "troponina t",
+    "description": "",
     "sample": "suero",
     "method": "quimiolumiscencia",
     "price1": 60,
@@ -1610,6 +1744,7 @@
   {
     "id": 137,
     "name": "estradiol libre",
+    "description": "",
     "sample": "suero",
     "method": "electroquimioluminiscencia",
     "price1": 230,
@@ -1622,6 +1757,7 @@
   {
     "id": 138,
     "name": "complemento c3-c4",
+    "description": "",
     "sample": "suero",
     "method": "electroquimioluminiscencia",
     "price1": 150,
@@ -1634,6 +1770,7 @@
   {
     "id": 139,
     "name": "ENA - PERFIL AUTOINMUNE",
+    "description": "",
     "sample": "suero",
     "method": "---",
     "price1": 320,
@@ -1646,6 +1783,7 @@
   {
     "id": 140,
     "name": "cloro serico (cl)",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 40,
@@ -1658,6 +1796,7 @@
   {
     "id": 141,
     "name": "sodio serico (na)",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 40,
@@ -1670,6 +1809,7 @@
   {
     "id": 142,
     "name": "potasio serico (k)",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 45,
@@ -1682,6 +1822,7 @@
   {
     "id": 143,
     "name": "perfil reumatoideo(fr-aso-pcr)",
+    "description": "",
     "sample": "suero",
     "method": "inmunoturbidimetria",
     "price1": 50,
@@ -1694,6 +1835,7 @@
   {
     "id": 144,
     "name": "coprocultivo mas antibiograma",
+    "description": "",
     "sample": "heces",
     "method": "cultivo",
     "price1": 50,
@@ -1706,6 +1848,7 @@
   {
     "id": 145,
     "name": "BNP (PEPTIDO NATRIUREICO)",
+    "description": "",
     "sample": "suero",
     "method": "INMUNOQUIMIOLUMINISCENCIA",
     "price1": 110,
@@ -1718,6 +1861,7 @@
   {
     "id": 146,
     "name": "HELICOBACTER PYLORI, TEST DE ALIENTO - CARBONO 13 (TEST UREASA)",
+    "description": "",
     "sample": "aliento",
     "method": "Espectometría infrarrojo (C13)",
     "price1": 230,
@@ -1730,6 +1874,7 @@
   {
     "id": 147,
     "name": "PAPANICOLAOU",
+    "description": "",
     "sample": "varios",
     "method": "MICROSCOPIA / MANUAL",
     "price1": 45,
@@ -1742,6 +1887,7 @@
   {
     "id": 148,
     "name": "test de ada",
+    "description": "",
     "sample": "liquido varios/suero",
     "method": "colorimetrico",
     "price1": 60,
@@ -1754,6 +1900,7 @@
   {
     "id": 149,
     "name": "helicobacter pylori total(prueba rapida)",
+    "description": "",
     "sample": "suero",
     "method": "cromatografia",
     "price1": 35,
@@ -1766,6 +1913,7 @@
   {
     "id": 150,
     "name": "helicobacter pylori igm",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -1778,6 +1926,7 @@
   {
     "id": 151,
     "name": "citomegalovirus igm",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 60,
@@ -1790,6 +1939,7 @@
   {
     "id": 152,
     "name": "citomegalovirus igg",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 60,
@@ -1802,6 +1952,7 @@
   {
     "id": 153,
     "name": "rubeola igg",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 60,
@@ -1814,6 +1965,7 @@
   {
     "id": 154,
     "name": "rubeola igm",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 60,
@@ -1826,6 +1978,7 @@
   {
     "id": 155,
     "name": "toxoplasma igg",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 60,
@@ -1838,6 +1991,7 @@
   {
     "id": 156,
     "name": "toxoplasma igm",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 60,
@@ -1850,6 +2004,7 @@
   {
     "id": 157,
     "name": "creatinina en orina de 24 h",
+    "description": "",
     "sample": "orina de 24 h",
     "method": "cinetico",
     "price1": 15,
@@ -1862,6 +2017,7 @@
   {
     "id": 158,
     "name": "rosa de bengala",
+    "description": "",
     "sample": "suero",
     "method": "aglutinacion",
     "price1": 50,
@@ -1874,6 +2030,7 @@
   {
     "id": 159,
     "name": "t3",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -1886,6 +2043,7 @@
   {
     "id": 160,
     "name": "albumina",
+    "description": "",
     "sample": "suero",
     "method": "colorimetrico",
     "price1": 10,
@@ -1898,6 +2056,7 @@
   {
     "id": 161,
     "name": "vitamina d total 25-hidroxivitamina d (d2+d3)",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia ",
     "price1": 250,
@@ -1910,6 +2069,7 @@
   {
     "id": 162,
     "name": "fibrinogeno",
+    "description": "",
     "sample": "plasma",
     "method": "coagulometria",
     "price1": 40,
@@ -1922,6 +2082,7 @@
   {
     "id": 163,
     "name": "cultivo de secreción faringea",
+    "description": "",
     "sample": "secreción fraringe",
     "method": "CULTIVO / MICROSCOPIA / MANUAL",
     "price1": 50,
@@ -1934,6 +2095,7 @@
   {
     "id": 164,
     "name": "recuento de hematies",
+    "description": "",
     "sample": "sangre total",
     "method": "manual",
     "price1": 15,
@@ -1946,6 +2108,7 @@
   {
     "id": 165,
     "name": "chagas",
+    "description": "",
     "sample": "suero",
     "method": "quimioluminiscencia",
     "price1": 60,
@@ -1958,6 +2121,7 @@
   {
     "id": 166,
     "name": "A.N.C.A. ANTI-NEUTROFILOS (ANCA)",
+    "description": "",
     "sample": "suero",
     "method": "IFI - Inmunofluorescencia Indirecta",
     "price1": 160,
@@ -1970,6 +2134,7 @@
   {
     "id": 167,
     "name": "DESPISTAJE ALERGICO AMPLIADO (295 ALERGENOS)",
+    "description": "",
     "sample": "suero",
     "method": "MICROARRAY / ALEX2",
     "price1": 1100,
@@ -1982,6 +2147,7 @@
   {
     "id": 168,
     "name": "DESPISTAJE ALERGICO BASICO (36 ALERGENOS)",
+    "description": "",
     "sample": "suero",
     "method": "MICROARRAY / ALEX2",
     "price1": 320,
@@ -1994,6 +2160,7 @@
   {
     "id": 169,
     "name": "perfil reumatoideo cuantificado",
+    "description": "",
     "sample": "suero",
     "method": "inmunoflorescencia",
     "price1": 60,

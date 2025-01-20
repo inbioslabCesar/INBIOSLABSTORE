@@ -4,6 +4,7 @@ const modalShow = (productId, data) => {
   if (producto) {
     document.getElementById("modal-product-name").textContent =
       producto.name.toUpperCase();
+    document.getElementById("description").textContent = producto.description;
     document.getElementById("modal-product-price").textContent =
       producto.price1;
     document.getElementById("modal-product-info").textContent =

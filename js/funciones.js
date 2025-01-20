@@ -76,5 +76,25 @@ const pintarCarrito = (carrito) => {
     tr.innerHTML = testRowCard(pruebaCarrito);
     tbody.appendChild(tr);
   }
-  //pintarFooter();
+  pintarFooter();
+};
+
+const pintarFooter = () => {
+  const datosCarrito = Object.values(carrito);
+  const nCantidad = datosCarrito.reduce(
+    (acc, { cantidad }) => acc + cantidad,
+    0
+  );
+  const nPrecio = datosCarrito.reduce(
+    (acc, { cantidad, price1 }) => acc + cantidad * price1,
+    0
+  );
+  const total1 = document.querySelector(".nCantidad");
+  total1.textContent = nCantidad;
+  const total2 = document.querySelector(".cant");
+  total2.textContent = nCantidad;
+  const precio1 = document.querySelector(".price-carrito span");
+  const precio2 = document.querySelector(".prec");
+  precio1.textContent = nPrecio;
+  precio2.textContent = nPrecio;
 };
