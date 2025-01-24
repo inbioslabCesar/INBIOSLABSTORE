@@ -1,6 +1,6 @@
-import modalShow from "../components/modalShow";
-import testRow from "../components/testRow";
-import testRowCard from "../components/testRowCard";
+import modalShow from "../components/modalShow.js";
+import testRow from "../components/testRow.js";
+import testRowCard from "../components/testRowCard.js";
 
 export const createListTests = (tests) => {
   tests.map((item) => {

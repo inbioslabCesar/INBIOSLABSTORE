@@ -1,7 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.js";
 import "./css/styles.css";
-
 import { getTest } from "./js/apiTest.js";
 
 import {
@@ -9,10 +8,11 @@ import {
   asignarEventoModal,
   createListTests,
   modalCardShow,
-} from "./js/funciones.js";
+} from "./js/funciones";
 
 const cargarTests = async () => {
   const tests = await getTest();
+  console.log(tests);
   createListTests(tests);
   asignarEventoModal(tests);
   modalCardShow();
