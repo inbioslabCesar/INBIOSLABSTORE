@@ -12,7 +12,6 @@ import {
 
 const cargarTests = async () => {
   const tests = await getTest();
-  console.log(tests);
   createListTests(tests);
   asignarEventoModal(tests);
   modalCardShow();
